@@ -30,10 +30,10 @@ class _ProductPageState extends State<ProductPage> {
   }
 
   final SnackBar _snackBar = SnackBar(
-    content: Text("Product added to the cart"),
+    content: Text("Event added to the Attend Events"),
   );
   final SnackBar _snackbar = SnackBar(
-    content: Text("Product Saved"),
+    content: Text("Event is Saved"),
   );
 
   @override
